@@ -1,5 +1,6 @@
 # projetoplanosaude
 Projeto de planos de saúde para prever  os gastos mensais dos clientes.
+![image](https://user-images.githubusercontent.com/44443939/137600940-27d3e096-d477-4d22-bcb6-4ce00a77522f.png)
 
 As empresas de plano de saúde trabalham com os variados tipos de clientes, desde jovens até idosos, sendo saudáveis ou
 não. Os valores gastos pessoais de cada cliente podem variar bastante sendo influenciado por uma série de fatores
